@@ -5,7 +5,7 @@ Donate link:
 Tags: nofollow,link,rel=nofollow,rel nofollow,seo,nofollow links,external link,external links,nofollow for external link,nofollow external link,nofollow external links
 Requires at least: 2.9.2
 Tested up to: 4.2.4
-Stable tag: 1.1.2
+Stable tag: 1.2.3
 License: GPL2
 
 Automatically insert `rel=nofollow` and `target=_blank` to all the external links into your website posts or pages. Support exclude domains.
